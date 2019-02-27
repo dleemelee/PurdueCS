@@ -1,0 +1,17 @@
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 21:23:13 EST 2016
+-------------------------------------------------
+money-exchange                      : 3   of 3  
+money-exchange invalid argc         : 3   of 3  
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 21:23:13 EST 2016  Total:  24 of 24
+

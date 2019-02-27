@@ -1,0 +1,47 @@
+initial state
+There are 3 cats and 3 dogs at the starting end of the river
+There are 0 cats and 0 dogs at the goal end of the river
+The boat is currenty at the start
+action 0
+Boat moved 1 cats and 1 dogs from start to goal.
+state 1
+There are 2 cats and 2 dogs at the starting end of the river
+There are 1 cats and 1 dogs at the goal end of the river
+The boat is currenty at the goal
+action 1
+Boat moved 0 cats and 0 dogs from goal to start.
+state 2
+There are 2 cats and 2 dogs at the starting end of the river
+There are 1 cats and 1 dogs at the goal end of the river
+The boat is currenty at the start
+action 2
+Boat moved 2 cats and 0 dogs from start to goal.
+state 3
+There are 0 cats and 2 dogs at the starting end of the river
+There are 3 cats and 1 dogs at the goal end of the river
+The boat is currenty at the goal
+action 3
+Boat moved 0 cats and 1 dogs from goal to start.
+state 4
+There are 0 cats and 3 dogs at the starting end of the river
+There are 3 cats and 0 dogs at the goal end of the river
+The boat is currenty at the start
+action 4
+Boat moved 0 cats and 2 dogs from start to goal.
+state 5
+There are 0 cats and 1 dogs at the starting end of the river
+There are 3 cats and 2 dogs at the goal end of the river
+The boat is currenty at the goal
+action 5
+Boat moved 0 cats and 0 dogs from goal to start.
+state 6
+There are 0 cats and 1 dogs at the starting end of the river
+There are 3 cats and 2 dogs at the goal end of the river
+The boat is currenty at the start
+action 6
+Boat moved 0 cats and 1 dogs from start to goal.
+goal
+There are 0 cats and 0 dogs at the starting end of the river
+There are 3 cats and 3 dogs at the goal end of the river
+The boat is currenty at the goal
+['000', '111', '110', '131', '030', '231', '230', '331']

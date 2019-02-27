@@ -1,0 +1,3 @@
+interface Downloadable {
+    String generateDownloadCode();
+}

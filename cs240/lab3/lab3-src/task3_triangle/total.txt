@@ -1,0 +1,8 @@
+triangle   < triangle_test1         : 3   of 3  
+triangle   < triangle_test2         : 3   of 3  
+triangle   < triangle_test3         : 3   of 3  
+triangle   < triangle_test4         : 3   of 3  
+triangle   < triangle_test5         : 3   of 3  
+triangle   < triangle_test6         : 3   of 3  
+triangle   < triangle_test7         : 3   of 3  
+triangle   < triangle_test8         : 3   of 3  

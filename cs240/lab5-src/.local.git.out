@@ -1,0 +1,328 @@
+[master (root-commit) 0656bf1] 0 of 85
+ Committer: I-Ta Lee <lee2226@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 40 files changed, 1119 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 tasks/task_1/Makefile
+ create mode 100644 tasks/task_1/endian.c
+ create mode 100644 tasks/task_2/Makefile
+ create mode 100644 tasks/task_2/nextword.c
+ create mode 100755 tasks/task_2/nextword.org
+ create mode 100644 tasks/task_2/none
+ create mode 100755 tasks/task_2/testall
+ create mode 100644 tasks/task_3/Makefile
+ create mode 100644 tasks/task_3/sort_array.c
+ create mode 100755 tasks/task_3/sort_array.org
+ create mode 100755 tasks/task_3/testall
+ create mode 100644 tasks/task_4/Makefile
+ create mode 100644 tasks/task_4/hintdump.c
+ create mode 100644 tasks/task_4/mem.c
+ create mode 100644 tasks/task_4/mymemdump.c
+ create mode 100644 tasks/task_4/none
+ create mode 100644 tasks/task_4/obj/orgmemdump.o
+ create mode 100644 tasks/task_4/orgmemdump.o
+ create mode 100755 tasks/task_4/testall
+ create mode 100644 tasks/task_4/testmemdump.c
+ create mode 100644 tasks/task_5/Makefile
+ create mode 100644 tasks/task_5/array.c
+ create mode 100644 tasks/task_5/array.h
+ create mode 100644 tasks/task_5/none
+ create mode 100644 tasks/task_5/test_array.c
+ create mode 100755 tasks/task_5/test_array.org
+ create mode 100755 tasks/task_5/testall
+ create mode 100644 tasks/task_6/Makefile
+ create mode 100644 tasks/task_6/bits.c
+ create mode 100644 tasks/task_6/bits.h
+ create mode 100644 tasks/task_6/none
+ create mode 100644 tasks/task_6/test_bits.c
+ create mode 100755 tasks/task_6/test_bits.org
+ create mode 100755 tasks/task_6/testall
+ create mode 100755 tasks/task_7/testall
+ create mode 100755 tasks/task_7/word_sort.org
+ create mode 100755 testall
+ create mode 100755 tester/testall
+ create mode 100644 totalGrade.txt
+[master a5e9364] 0 of 85
+ Committer: I-Ta Lee <lee2226@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 55 insertions(+), 1 deletion(-)
+[master (root-commit) 02856b7] 0 of 85
+ Committer: I-Ta Lee <lee2226@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 40 files changed, 1187 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 tasks/task_1/Makefile
+ create mode 100644 tasks/task_1/endian.c
+ create mode 100644 tasks/task_2/Makefile
+ create mode 100644 tasks/task_2/nextword.c
+ create mode 100755 tasks/task_2/nextword.org
+ create mode 100644 tasks/task_2/none
+ create mode 100755 tasks/task_2/testall
+ create mode 100644 tasks/task_3/Makefile
+ create mode 100644 tasks/task_3/sort_array.c
+ create mode 100755 tasks/task_3/sort_array.org
+ create mode 100755 tasks/task_3/testall
+ create mode 100644 tasks/task_4/Makefile
+ create mode 100644 tasks/task_4/hintdump.c
+ create mode 100644 tasks/task_4/mem.c
+ create mode 100644 tasks/task_4/mymemdump.c
+ create mode 100644 tasks/task_4/none
+ create mode 100644 tasks/task_4/obj/orgmemdump.o
+ create mode 100644 tasks/task_4/orgmemdump.o
+ create mode 100755 tasks/task_4/testall
+ create mode 100644 tasks/task_4/testmemdump.c
+ create mode 100644 tasks/task_5/Makefile
+ create mode 100644 tasks/task_5/array.c
+ create mode 100644 tasks/task_5/array.h
+ create mode 100644 tasks/task_5/none
+ create mode 100644 tasks/task_5/test_array.c
+ create mode 100755 tasks/task_5/test_array.org
+ create mode 100755 tasks/task_5/testall
+ create mode 100644 tasks/task_6/Makefile
+ create mode 100644 tasks/task_6/bits.c
+ create mode 100644 tasks/task_6/bits.h
+ create mode 100644 tasks/task_6/none
+ create mode 100644 tasks/task_6/test_bits.c
+ create mode 100755 tasks/task_6/test_bits.org
+ create mode 100755 tasks/task_6/testall
+ create mode 100755 tasks/task_7/testall
+ create mode 100755 tasks/task_7/word_sort.org
+ create mode 100755 testall
+ create mode 100755 tester/testall
+ create mode 100644 totalGrade.txt
+[master (root-commit) ac2a700] 2 of 48
+ Committer: I-Ta Lee <lee2226@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 40 files changed, 1240 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 tasks/task_1/Makefile
+ create mode 100644 tasks/task_1/endian.c
+ create mode 100644 tasks/task_2/Makefile
+ create mode 100644 tasks/task_2/nextword.c
+ create mode 100755 tasks/task_2/nextword.org
+ create mode 100644 tasks/task_2/none
+ create mode 100755 tasks/task_2/testall
+ create mode 100644 tasks/task_3/Makefile
+ create mode 100644 tasks/task_3/sort_array.c
+ create mode 100755 tasks/task_3/sort_array.org
+ create mode 100755 tasks/task_3/testall
+ create mode 100644 tasks/task_4/Makefile
+ create mode 100644 tasks/task_4/hintdump.c
+ create mode 100644 tasks/task_4/mem.c
+ create mode 100644 tasks/task_4/mymemdump.c
+ create mode 100644 tasks/task_4/none
+ create mode 100644 tasks/task_4/obj/orgmemdump.o
+ create mode 100644 tasks/task_4/orgmemdump.o
+ create mode 100755 tasks/task_4/testall
+ create mode 100644 tasks/task_4/testmemdump.c
+ create mode 100644 tasks/task_5/Makefile
+ create mode 100644 tasks/task_5/array.c
+ create mode 100644 tasks/task_5/array.h
+ create mode 100644 tasks/task_5/none
+ create mode 100644 tasks/task_5/test_array.c
+ create mode 100755 tasks/task_5/test_array.org
+ create mode 100755 tasks/task_5/testall
+ create mode 100644 tasks/task_6/Makefile
+ create mode 100644 tasks/task_6/bits.c
+ create mode 100644 tasks/task_6/bits.h
+ create mode 100644 tasks/task_6/none
+ create mode 100644 tasks/task_6/test_bits.c
+ create mode 100755 tasks/task_6/test_bits.org
+ create mode 100755 tasks/task_6/testall
+ create mode 100755 tasks/task_7/testall
+ create mode 100755 tasks/task_7/word_sort.org
+ create mode 100755 testall
+ create mode 100755 tester/testall
+ create mode 100644 totalGrade.txt
+[master (root-commit) 0539e4f] 2 of 64
+ Committer: I-Ta Lee <lee2226@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 40 files changed, 1294 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 tasks/task_1/Makefile
+ create mode 100644 tasks/task_1/endian.c
+ create mode 100644 tasks/task_2/Makefile
+ create mode 100644 tasks/task_2/nextword.c
+ create mode 100755 tasks/task_2/nextword.org
+ create mode 100644 tasks/task_2/none
+ create mode 100755 tasks/task_2/testall
+ create mode 100644 tasks/task_3/Makefile
+ create mode 100644 tasks/task_3/sort_array.c
+ create mode 100755 tasks/task_3/sort_array.org
+ create mode 100755 tasks/task_3/testall
+ create mode 100644 tasks/task_4/Makefile
+ create mode 100644 tasks/task_4/hintdump.c
+ create mode 100644 tasks/task_4/mem.c
+ create mode 100644 tasks/task_4/mymemdump.c
+ create mode 100644 tasks/task_4/none
+ create mode 100644 tasks/task_4/obj/orgmemdump.o
+ create mode 100644 tasks/task_4/orgmemdump.o
+ create mode 100755 tasks/task_4/testall
+ create mode 100644 tasks/task_4/testmemdump.c
+ create mode 100644 tasks/task_5/Makefile
+ create mode 100644 tasks/task_5/array.c
+ create mode 100644 tasks/task_5/array.h
+ create mode 100644 tasks/task_5/none
+ create mode 100644 tasks/task_5/test_array.c
+ create mode 100755 tasks/task_5/test_array.org
+ create mode 100755 tasks/task_5/testall
+ create mode 100644 tasks/task_6/Makefile
+ create mode 100644 tasks/task_6/bits.c
+ create mode 100644 tasks/task_6/bits.h
+ create mode 100644 tasks/task_6/none
+ create mode 100644 tasks/task_6/test_bits.c
+ create mode 100755 tasks/task_6/test_bits.org
+ create mode 100755 tasks/task_6/testall
+ create mode 100755 tasks/task_7/testall
+ create mode 100755 tasks/task_7/word_sort.org
+ create mode 100755 testall
+ create mode 100755 tester/testall
+ create mode 100644 totalGrade.txt
+[master (root-commit) 2c5af82] 2 of 64
+ Committer: David Lee <lee2173@xinu18.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 40 files changed, 1353 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100644 tasks/task_1/Makefile
+ create mode 100644 tasks/task_1/endian.c
+ create mode 100644 tasks/task_2/Makefile
+ create mode 100644 tasks/task_2/nextword.c
+ create mode 100755 tasks/task_2/nextword.org
+ create mode 100644 tasks/task_2/none
+ create mode 100755 tasks/task_2/testall
+ create mode 100644 tasks/task_3/Makefile
+ create mode 100644 tasks/task_3/sort_array.c
+ create mode 100755 tasks/task_3/sort_array.org
+ create mode 100755 tasks/task_3/testall
+ create mode 100644 tasks/task_4/Makefile
+ create mode 100644 tasks/task_4/hintdump.c
+ create mode 100644 tasks/task_4/mem.c
+ create mode 100644 tasks/task_4/mymemdump.c
+ create mode 100644 tasks/task_4/none
+ create mode 100644 tasks/task_4/obj/orgmemdump.o
+ create mode 100644 tasks/task_4/orgmemdump.o
+ create mode 100755 tasks/task_4/testall
+ create mode 100644 tasks/task_4/testmemdump.c
+ create mode 100644 tasks/task_5/Makefile
+ create mode 100644 tasks/task_5/array.c
+ create mode 100644 tasks/task_5/array.h
+ create mode 100644 tasks/task_5/none
+ create mode 100644 tasks/task_5/test_array.c
+ create mode 100755 tasks/task_5/test_array.org
+ create mode 100755 tasks/task_5/testall
+ create mode 100644 tasks/task_6/Makefile
+ create mode 100644 tasks/task_6/bits.c
+ create mode 100644 tasks/task_6/bits.h
+ create mode 100644 tasks/task_6/none
+ create mode 100644 tasks/task_6/test_bits.c
+ create mode 100755 tasks/task_6/test_bits.org
+ create mode 100755 tasks/task_6/testall
+ create mode 100755 tasks/task_7/testall
+ create mode 100755 tasks/task_7/word_sort.org
+ create mode 100755 testall
+ create mode 100755 tester/testall
+ create mode 100644 totalGrade.txt
+[master 482085b] 80 of 80
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 10 files changed, 276 insertions(+), 34 deletions(-)
+ create mode 100644 tasks/task_1/endian.txt
+ create mode 100644 tasks/task_3/none
+[master 28a36a9] 80 of 80
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+[master 3797a15] 80 of 80
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 20 insertions(+), 12 deletions(-)

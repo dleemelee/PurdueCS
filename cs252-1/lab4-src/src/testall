@@ -1,0 +1,36 @@
+#!/bin/bash
+
+#make clean
+#make
+
+if [[ $? -ne 0 ]]; then
+	exit 1
+fi
+
+(( j = 1 ))
+for i in $(ls ../test); do
+	timeout 45s ./lab4 $j > temp.out
+
+	if [[ $? -ne 0 ]]; then
+		echo "Test $j Failed!"
+		echo "---------------------------------------"
+		echo "Timeout."
+		echo "---------------------------------------"
+	else
+	   	output=$(diff temp.out ../test/$i)
+		if [[ -z output ]]; then
+			echo "Test $j Failed!"
+			echo "---------------------------------------"
+			echo "Diff: (yours, theirs)"
+			echo "---------------------------------------"
+			echo $output
+			echo "---------------------------------------"
+		else
+			echo "Test $j Passed..."
+		fi
+	fi
+
+	(( j = j + 1 ))
+done
+
+rm -f temp.out

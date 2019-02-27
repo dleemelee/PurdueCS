@@ -1,0 +1,14 @@
+Draw Right Angle Triangle
+
+Please enter your choice of right triangle
+1 for left aligned right angle triangle
+2 for right aligned right angle triangle
+
+Enter your choice [1/2]: 
+Enter the height of the triangle [0-100]: 
+*   
+**  
+*** 
+****
+
+Do you want to continue? [y/n]: 

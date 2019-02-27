@@ -1,0 +1,11 @@
+Part 2
+In thr1.cc, we create the threads that are running printC first, therefore we can make our main thread run printC in which they all are running concurrently. However, in thr2.cc we run printC on our main thread first, making it impossible to create more threads while printC is already running.
+
+Part 3
+Program System User Kernel
+pthread_mutex(count) 0m2.892 0m 3.480s 0m3.304s
+spin_lock(count_spin with thr_yield) 0m 0.468s 0m1.936s 0m1.260s
+spin_lock(count_spin without thr_yield) 0m0.052s 0m9.604s 0m4.853s
+1. Having thr_yield makes it so that the current thread will yield what it is currently executing in order to run another thread with a higher priority. The spinlock wastes a lot of time in User mode when it is in the while loop, but when the thread yields for another thread of higher priority it gets rid of that time wasted.
+2. There is a difference between count and count_spin in system time because when the mutex lock puts threads in a queue in the kernel until they wait for the dequue when the mutex is unlocked, the spinlock doesn't switch back to the kernel but aggressively switches the thread that is currently running.
+

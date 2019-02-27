@@ -1,0 +1,27 @@
+# Makefile for 2nd program of Lab1 - Temperature conversion
+#
+# This program consists of 2 c files and 1 header file
+# All the three files should be compiled together to get
+# the executable output. The actual gcc command which will
+# give us the desired output is 
+#
+#   /cs240/lab1 $ gcc lab1_temp_cnvt_main.c lab1_temp_cnvt_aux.c -o temp_cnvt.out
+#
+# We can observe that as the number of constituent source files (*.c)
+# increase the gcc command to compile will grow longer
+# Thus we use makefiles to put a one time effort to write the long 
+# command and keep reusing it instead of typing it everytime.
+# The make file for temp_cnvt can be written as follows.
+#
+
+CC=gcc
+
+OPTIONS=-Wall -Werror -g
+
+OUTPUTFILE=My_temp_cnvt.out
+
+SOURCEFILES=lab1_temp_cnvt_aux.c\
+	lab1_temp_cnvt_main.c
+
+all:
+	$(CC) $(OPTIONS) $(SOURCEFILES) -o $(OUTPUTFILE)

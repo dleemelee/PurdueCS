@@ -1,0 +1,4 @@
+1000 ADD Microsoft 10000
+1001 TRANSFER Microsoft Google 2000
+1002 TRANSFER Google Facebook 2000
+1003 REMOVE Microsoft

@@ -1,0 +1,1 @@
+Doc: 2927 [/home/u92/lee2173/cs473/project1/./corpus/CACM-0257.html]	Term Count: 21	Total Words: 28	Max TF: 6

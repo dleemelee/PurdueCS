@@ -1,0 +1,7 @@
+1000 ADD Pepsi 100
+2000 ADD Facebook 200
+3000 ADD Google 500
+3005 TRANSFER Facebook Google 200
+4000 TRANSFER Pepsi Facebook 50
+5000 TRANSFER Google Facebook 600
+5001 REMOVE Google

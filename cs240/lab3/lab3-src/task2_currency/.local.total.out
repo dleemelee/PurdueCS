@@ -1,0 +1,315 @@
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:15:18 EST 2016
+-------------------------------------------------
+money-exchange                      : 0   of 3  
+money-exchange invalid argc         : 0   of 3  
+money-exchange dollar 10.99 0.92    : 0   of 3  
+money-exchange euro 10.00 1.09      : 0   of 3  
+money-exchange euro -10.00 1.09     : 0   of 3  
+money-exchange pound 5.98 1.30      : 0   of 3  
+money-exchange invalidfile          : 0   of 3  
+money-exchange prices.txt           : 0   of 3  
+Don't use string library in mystring.c (-20pts)
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:15:18 EST 2016  Total:  -20 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:15:33 EST 2016
+-------------------------------------------------
+Don't use string library in mystring.c (-20pts)
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:15:33 EST 2016  Total:  -20 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:15:46 EST 2016
+-------------------------------------------------
+money-exchange                      : 3   of 3  
+money-exchange invalid argc         : 3   of 3  
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+Don't use string library in mystring.c (-20pts)
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:15:46 EST 2016  Total:  4 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:16:09 EST 2016
+-------------------------------------------------
+money-exchange                      : 3   of 3  
+money-exchange invalid argc         : 3   of 3  
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:16:09 EST 2016  Total:  24 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 19:32:02 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 19:32:02 EST 2016  Total:  15 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 19:34:08 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 19:34:08 EST 2016  Total:  15 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 19:45:23 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 19:45:23 EST 2016  Total:  15 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 19:53:13 EST 2016
+-------------------------------------------------
+money-exchange                      : 3   of 3  
+money-exchange invalid argc         : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 19:53:13 EST 2016  Total:  12 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 19:54:20 EST 2016
+-------------------------------------------------
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 19:54:20 EST 2016  Total:  6 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 19:54:47 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 19:54:47 EST 2016  Total:  15 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 19:56:06 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 19:56:06 EST 2016  Total:  15 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 20:03:03 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 20:03:03 EST 2016  Total:  18 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 20:08:33 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 20:08:33 EST 2016  Total:  18 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 20:08:57 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 20:08:57 EST 2016  Total:  18 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 20:11:23 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 20:11:23 EST 2016  Total:  18 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 20:11:39 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 20:11:39 EST 2016  Total:  18 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 20:34:31 EST 2016
+-------------------------------------------------
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 20:34:31 EST 2016  Total:  18 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Sat Feb  6 20:49:25 EST 2016
+-------------------------------------------------
+money-exchange                      : 3   of 3  
+money-exchange invalid argc         : 3   of 3  
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Sat Feb 6 20:49:25 EST 2016  Total:  24 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 02:53:06 EST 2016
+-------------------------------------------------
+money-exchange                      : 3   of 3  
+money-exchange invalid argc         : 3   of 3  
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 02:53:06 EST 2016  Total:  24 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 04:01:14 EST 2016
+-------------------------------------------------
+money-exchange                      : 3   of 3  
+money-exchange invalid argc         : 3   of 3  
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 04:01:14 EST 2016  Total:  24 of 24
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 21:23:13 EST 2016
+-------------------------------------------------
+money-exchange                      : 3   of 3  
+money-exchange invalid argc         : 3   of 3  
+money-exchange dollar 10.99 0.92    : 3   of 3  
+money-exchange euro 10.00 1.09      : 3   of 3  
+money-exchange euro -10.00 1.09     : 3   of 3  
+money-exchange pound 5.98 1.30      : 3   of 3  
+money-exchange invalidfile          : 3   of 3  
+money-exchange prices.txt           : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 21:23:13 EST 2016  Total:  24 of 24
+

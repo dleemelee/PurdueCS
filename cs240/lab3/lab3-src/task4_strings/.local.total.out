@@ -1,0 +1,670 @@
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:18:42 EST 2016
+-------------------------------------------------
+triangle   < triangle_test1         : 0   of 3  
+triangle   < triangle_test2         : 0   of 3  
+triangle   < triangle_test3         : 0   of 3  
+triangle   < triangle_test4         : 0   of 3  
+triangle   < triangle_test5         : 0   of 3  
+triangle   < triangle_test6         : 0   of 3  
+triangle   < triangle_test7         : 0   of 3  
+triangle   < triangle_test8         : 0   of 3  
+money-exchange                      : 0   of 3  
+money-exchange invalid argc         : 0   of 3  
+money-exchange dollar 10.99 0.92    : 0   of 3  
+money-exchange euro 10.00 1.09      : 0   of 3  
+money-exchange euro -10.00 1.09     : 0   of 3  
+money-exchange pound 5.98 1.30      : 0   of 3  
+money-exchange invalidfile          : 0   of 3  
+money-exchange prices.txt           : 0   of 3  
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test4                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+Don't use string library in mystring.c (-20pts)
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:18:42 EST 2016  Total:  -20 of 69
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:19:19 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test4                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+Don't use string library in mystring.c (-20pts)
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:19:19 EST 2016  Total:  -20 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:19:26 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 3   of 3  
+test_mystring test4                 : 3   of 3  
+test_mystring test5                 : 3   of 3  
+test_mystring test6                 : 3   of 3  
+test_mystring test7                 : 0   of 3  
+Don't use string library in mystring.c (-20pts)
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:19:26 EST 2016  Total:  -5 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:19:50 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 3   of 3  
+test_mystring test4                 : 3   of 3  
+test_mystring test5                 : 3   of 3  
+test_mystring test6                 : 3   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:19:50 EST 2016  Total:  15 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:20:39 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 3   of 3  
+test_mystring test4                 : 3   of 3  
+test_mystring test5                 : 3   of 3  
+test_mystring test6                 : 3   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:20:39 EST 2016  Total:  15 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:21:30 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:21:30 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:25:32 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:25:32 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:25:55 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:25:55 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:27:02 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:27:02 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:27:16 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:27:16 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:27:49 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:27:49 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:28:45 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:28:45 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:29:44 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:29:44 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:30:18 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:30:18 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:30:47 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:30:47 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:31:11 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:31:11 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:31:53 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:31:53 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:32:55 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:32:55 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:33:14 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:33:14 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:33:51 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:33:51 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:34:07 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:34:07 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:34:44 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:34:44 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:34:47 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:34:47 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:37:58 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:37:58 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:39:11 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:39:11 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:39:34 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:39:34 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. du55   
+Mon Jan 25 18:40:11 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. du55 Mon Jan 25 18:40:11 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 02:53:06 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 02:53:06 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 02:59:07 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 02:59:07 EST 2016  Total:  0 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 03:00:48 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 0   of 3  
+test_mystring test2                 : 3   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 03:00:48 EST 2016  Total:  6 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 03:01:46 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 03:01:46 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 03:08:35 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 03:08:35 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 03:16:15 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 03:16:15 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 03:16:29 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 03:16:29 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 03:18:56 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 03:18:56 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 03:40:41 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 03:40:41 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 04:01:14 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 04:01:14 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 21:23:14 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 21:23:14 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 22:06:31 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 0   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 22:06:31 EST 2016  Total:  3 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 23:40:19 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 3   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 0   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 23:40:19 EST 2016  Total:  6 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 23:47:54 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 3   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 0   of 3  
+test_mystring test7                 : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 23:47:54 EST 2016  Total:  9 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 23:51:24 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 3   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 3   of 3  
+test_mystring test7                 : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 23:51:24 EST 2016  Total:  12 of 21
+
+
+
+-------------------------------------------------
+CS240: Lab 3. lee2173   
+Mon Feb  8 23:53:26 EST 2016
+-------------------------------------------------
+test_mystring test1                 : 3   of 3  
+test_mystring test2                 : 3   of 3  
+test_mystring test3                 : 0   of 3  
+test_mystring test4                 : 3   of 3  
+test_mystring test5                 : 0   of 3  
+test_mystring test6                 : 3   of 3  
+test_mystring test7                 : 3   of 3  
+-------------------------------------------------
+CS240: Lab 3. lee2173 Mon Feb 8 23:53:26 EST 2016  Total:  15 of 21
+

@@ -1,0 +1,10 @@
+tasks/task_1: /
+tasks/task_2: 16/16
+tasks/task_3: 16/16
+tasks/task_4: 15/15
+tasks/task_5: 18/18
+tasks/task_6: 15/15
+tasks/task_7: /
+
+CS240: LAB5. lee2173 Mon Mar 14 20:32:25 EDT 2016
+Total Grade: 80/80

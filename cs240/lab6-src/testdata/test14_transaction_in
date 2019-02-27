@@ -1,0 +1,7 @@
+1003 ADD Twitter 20000
+1005 ADD Facebook 30000
+1006 TRANSFER Twitter Facebook 20000
+1008 REMOVE Twitter
+1010 REMOVE Comcast
+1012 ADD Comcast 10000
+1014 TRANSFER Comcast Facebook 4000

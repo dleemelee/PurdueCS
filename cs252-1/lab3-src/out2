@@ -1,0 +1,26 @@
+ls: cannot access /tt: No such file or directory
+16 00:23 .
+drwxr-s--- 7 lee2173 lee2173  4096 Mar 13 19:13 ..
+-rw-r----- 1 lee2173 lee2173 16384 Mar 16 00:22 .command.cc.swp
+drwxr-s--- 7 lee2173 lee2173  4096 Mar 16 00:22 .git
+-rw-r----- 1 lee2173 lee2173 30829 Mar 16 00:22 .local.git.out
+-rwxr-x--- 1 lee2173 lee2173   798 Feb 18 02:30 Makefile
+-rwxr-x--- 1 lee2173 lee2173 20816 Mar 15 16:12 cat_grep
+-rwxr-x--- 1 lee2173 lee2173  2927 Feb 18 02:30 cat_grep.cc
+-rwxr-x--- 1 lee2173 lee2173  4993 Mar 16 00:22 command.cc
+-rwxr-x--- 1 lee2173 lee2173   737 Mar 16 00:18 command.h
+-rw-r----- 1 lee2173 lee2173 27120 Mar 16 00:22 command.o
+-rwxr-x--- 1 lee2173 lee2173 12480 Mar 15 16:12 ctrl-c
+-rwxr-x--- 1 lee2173 lee2173   642 Feb 18 02:30 ctrl-c.cc
+-rw-r----- 1 lee2173 lee2173 45126 Mar 15 16:12 lex.yy.c
+-rw-r----- 1 lee2173 lee2173 43480 Mar 15 16:12 lex.yy.o
+-rwSr----- 1 lee2173 lee2173     0 Mar 16 00:23 out
+-rwxr-x--- 1 lee2173 lee2173 15736 Mar 15 16:12 regular
+-rwxr-x--- 1 lee2173 lee2173  1747 Feb 18 02:30 regular.cc
+-rwxr-x--- 1 lee2173 lee2173 56936 Mar 16 00:22 shell
+-rwxr-x--- 1 lee2173 lee2173   668 Mar 13 18:02 shell.l
+-rwxr-x--- 1 lee2173 lee2173  2372 Mar 16 00:20 shell.y
+drwxr-s--- 3 lee2173 lee2173  4096 Mar 13 19:25 test-shell
+-rw-r----- 1 lee2173 lee2173 47617 Mar 16 00:20 y.tab.c
+-rw-r----- 1 lee2173 lee2173  2587 Mar 16 00:20 y.tab.h
+-rw-r----- 1 lee2173 lee2173 18408 Mar 16 00:20 y.tab.o

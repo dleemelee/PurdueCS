@@ -1,0 +1,1 @@
+I see an endless prints of A, B, and Cs. The reason is becasue the processes are all concurrently printing the letters separately. Even if you change the 20000 it would be running forever because the for loop is inside of a while loop that never ends.

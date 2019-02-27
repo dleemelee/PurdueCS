@@ -1,0 +1,1918 @@
+[master a77092b] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+[master 592cada] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 47a5b0e] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 569fb4d] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+[master 2de439d] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8e6688a] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8c1a737] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3293a39] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c484c59] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	32
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+
+nothing added to commit but untracked files present
+[master 3b1a953] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a6395a1] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c43d560] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c3090a9] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 722c6c7] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 39d989b] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0cb3373] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f7fa696] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 1c53ce5] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+)
+[master 156bcf2] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+[master cd5e9d5] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 436d8c4] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master ba3157a] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e16ada2] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 4f485ba] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 638180f] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+)
+[master 5d747ec] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 2b3d090] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+On branch master
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 2f00624] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+[master 58ac2c0] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 0782cc1] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+[master 2eecd2c] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master cf673ea] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 deletions(-)
+[master d5e84a3] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 70f8e6e] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+[master 211bcb9] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 8db53db] Lab 2 commit
+ Committer: David Lee <lee2173@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	32
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 7f22ad9] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master e3325d8] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 1767502] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master f66ebe2] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 1dcc76b] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master ddc34ef] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 69408f8] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 56c5888] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 19fb44c] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 5876bcc] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 0d9dff8] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+), 8 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 987f971] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 995daba] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dfa9b82] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f6c8335] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	.monitor.sh.swp
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+
+nothing added to commit but untracked files present
+[master 8a34f98] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 59fd536] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Untracked files:
+	.local.git.out
+	.monitor.sh.swp
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+	reports_dir/
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	.monitor.sh.swp
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+	reports_dir/
+
+nothing added to commit but untracked files present
+On branch master
+Untracked files:
+	.local.git.out
+	.monitor.sh.swp
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+	reports_dir/
+
+nothing added to commit but untracked files present
+[master 5d4d3f1] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+), 6 deletions(-)
+[master 3b4702d] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 400c2cb] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 29b8290] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 1aa8597] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8192041] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7f356d9] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2efa95e] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+On branch master
+Untracked files:
+	.local.git.out
+	.monitor.sh.swp
+	check-1.txt
+	check-10.txt
+	check-11.txt
+	check-12.txt
+	check-13.txt
+	check-14.txt
+	check-15.txt
+	check-16.txt
+	check-17.txt
+	check-18.txt
+	check-2.txt
+	check-3.txt
+	check-4.txt
+	check-5.txt
+	check-6.txt
+	check-7.txt
+	check-8.txt
+	check-9.txt
+	pw.txt
+	reports_dir/
+
+nothing added to commit but untracked files present
+[master a8f8794] Lab 2 commit
+ Committer: David Lee <lee2173@moore02.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)

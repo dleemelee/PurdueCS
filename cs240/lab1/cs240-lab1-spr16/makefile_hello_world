@@ -1,0 +1,18 @@
+# Makefile for Program 1 - Hello World 
+# This makefile will compile lab1_hello_world.c using gcc 
+# This makefile can be run using make command as follows
+#    /cs240/lab1 $ make -f makefile_hello_world
+#
+# The command provided for the target 'all' is the 
+# the exact same command that is entered in the command
+# prompt to get the hello_world.out file
+#
+# By writing this into a makefile from now on all
+# we have to just invoke 'make -f makefile_hello_world' instead
+# of the gcc command. This does not seem like a huge improvement
+# as of now. If you consider the case of compiling multiple 
+# source/header files together into a single program, 
+# the use of make clearly has advantages.
+
+all:
+	gcc -Wall -Werror -g lab1_hello_world.c -o hello_world.out
